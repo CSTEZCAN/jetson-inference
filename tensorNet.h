@@ -26,7 +26,7 @@
 
 #include "NvInfer.h"
 #include "NvCaffeParser.h"
-
+#include <vector>
 #include <sstream>
 
 
